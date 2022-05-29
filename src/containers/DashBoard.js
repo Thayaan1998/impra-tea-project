@@ -53,7 +53,7 @@ const DashBoard = () => {
                     </Grid>
                     <Grid item xs={5.8}>
                         <Item style={{ backgroundColor: "#13CD65", color: "white" }}>
-                            <p>Shiped Qty</p>
+                            <p>Shipped Qty</p>
                             <h1>288,800 Kgs</h1>
                         </Item>
                     </Grid>
@@ -92,7 +92,7 @@ const DashBoard = () => {
                         </Item>
                     </Grid>
                     <Grid item xs={5.8}>
-                        <Item style={{ margin: "10px",backgroundColor: "#9EEE00", color: "white" }}>
+                        <Item style={{ margin: "10px",backgroundColor: "rgb(137 200 13)", color: "white" }}>
                             <p>Year to date Qty	</p>
                             <h1>1,288,800 Kgs</h1>
                         </Item>

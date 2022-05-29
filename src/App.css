@@ -23,7 +23,9 @@
   margin: left 20px ;
  
 }
-
+.apexcharts-legend.apexcharts-align-left.apx-legend-position-left {
+  align-items: baseline;
+}
 
 .App-logo {
   height: 40vmin;
